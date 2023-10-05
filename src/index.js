@@ -1,6 +1,6 @@
-const { log } = require('console');
+
 const express = require('express');
-const { request } = require('http');
+
 
 const app = express ();
 
